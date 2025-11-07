@@ -1,7 +1,7 @@
-# FurnishSim
+# FurnishSim (December 2023)
 
 ## about
-FurnishSim (December 2023)  furniture business simulator. Manage your money, increase your popularity, deal with unexpected scenarios, and get rich!!
+FurnishSim is a simple furniture business simulator. Manage your money, increase your popularity, deal with unexpected scenarios, and get rich!!
 
 ## tech stack
 - java (swing ui)
